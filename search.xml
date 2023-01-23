@@ -18,4 +18,14 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>test</title>
+    <url>/2023/01/24/test/</url>
+    <content><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p>test test</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">	std::cout &lt;&lt; <span class="string">&quot;test&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
 </search>
