@@ -41,4 +41,13 @@
         <tag>随笔;日记</tag>
       </tags>
   </entry>
+  <entry>
+    <title>test-multi-tags</title>
+    <url>/2023/01/24/test-multi-tags/</url>
+    <content><![CDATA[<p>test multi tags</p>
+]]></content>
+      <tags>
+        <tag>tags</tag>
+      </tags>
+  </entry>
 </search>
