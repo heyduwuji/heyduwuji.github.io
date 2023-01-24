@@ -47,7 +47,7 @@
     <content><![CDATA[<p>test multi tags</p>
 ]]></content>
       <tags>
-        <tag>tags</tag>
+        <tag>tags; test</tag>
       </tags>
   </entry>
 </search>
